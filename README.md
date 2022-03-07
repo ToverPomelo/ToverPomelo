@@ -23,5 +23,14 @@
 <details>
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+$newlin🎆 Mar 01, 2022: [2022 SUSCTF的两道半密码题WP](https://tover.xyz/p/2022-SUSCTF-Crypto/)
+$newlin🎆 Feb 10, 2022: [maiPad Plus的simai谱面制作](https://tover.xyz/p/maiPad-simai/)
+$newlin🎆 Jan 25, 2022: [2022HWS冬令营预选赛的Elgamal](https://tover.xyz/p/2022-HWSwinter-Elgamal/)
+$newlin🎆 Jan 24, 2022: [DeemoⅡ音频及MIDI提取](https://tover.xyz/p/Deemo2-Song-MIDI/)
+$newlin🎆 Nov 24, 2021: [华南师范大学HSCTF2021部分Writeup（官方）](https://tover.xyz/p/hsctf-2021-fresh-wp/)
+$newlin🎆 Nov 08, 2021: [aircrack-ng+hashcat的wifi口令爆破](https://tover.xyz/p/aircrack-ng-wifi/)
+$newlin🎆 Nov 04, 2021: [EasyCrypt编译安装踩坑记录](https://tover.xyz/p/easy-crypt-install/)
+$newlin🎆 Nov 02, 2021: [EasyCrypt文档编译踩坑记录](https://tover.xyz/p/easy-crypt-tex/)
+$newlin🎆 Oct 17, 2021: [2021-ByteCTF的Overheard](https://tover.xyz/p/2021-ByteCTF-Overheard/)
+$newlin🎆 Oct 13, 2021: [2021广东省强网杯的DLP](https://tover.xyz/p/dlp-gdqwb/)<!-- BLOG-POST-LIST:END -->
 </details>
