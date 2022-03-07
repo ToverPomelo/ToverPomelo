@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://tover.xyz/atom.xml"
           max_post_count: 10
-          template: "$newline$newlin🎆 $date: [$title]($url)"
+          template: "$newline$newline🎆 $date: [$title]($url)"
           date_format: mmm dd, yyyy
