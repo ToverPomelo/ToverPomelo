@@ -10,7 +10,7 @@
 
 🧭 majoring in **Cyberspace Security**.
 
-🕹 an Overwatch flex💡 newcomer (often play Ana for a certain Mercy) and various music games🎼 (almost all, I think) lover!!!
+🕹 a various music games🎼 (almost all, I think) lover and Overwatch flex💡 newcomer (often play Ana for a certain Mercy).
 
 😵 suffering from face blindness, plz plz plz forgive me if I can't recognize you in time. QAQ
 
