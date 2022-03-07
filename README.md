@@ -17,6 +17,7 @@
 ## I'm learning ...
 
 📍 Lattice-based cryptography.
+
 📍 working around music transcription (occasionally).
 
 ## My recent blogs ...
