@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Apr 26, 2022: [2022 MRCTF的strange_classic](https://tover.xyz/p/2022-MRCTF-strange-classic/)
+
 🎆 Mar 22, 2022: [2022HFCTF的RRSSAA笔记](https://tover.xyz/p/2022-HFCTF-RRSSAA/)
 
 🎆 Mar 13, 2022: [d3factor/Boneh-Durfee与Coppersmith学习笔记](https://tover.xyz/p/d3factor-coppersmith/)
@@ -42,7 +44,5 @@
 
 🎆 Nov 08, 2021: [aircrack-ng+hashcat的wifi口令爆破](https://tover.xyz/p/aircrack-ng-wifi/)
 
-🎆 Nov 04, 2021: [EasyCrypt编译安装踩坑记录](https://tover.xyz/p/easy-crypt-install/)
-
-🎆 Nov 02, 2021: [EasyCrypt文档编译踩坑记录](https://tover.xyz/p/easy-crypt-tex/)<!-- BLOG-POST-LIST:END -->
+🎆 Nov 04, 2021: [EasyCrypt编译安装踩坑记录](https://tover.xyz/p/easy-crypt-install/)<!-- BLOG-POST-LIST:END -->
 </details>
