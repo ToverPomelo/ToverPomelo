@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 May 10, 2022: [承诺方案（Commitment）学习笔记 1](https://tover.xyz/p/commitment-note/)
+
 🎆 Apr 26, 2022: [2022 MRCTF的strange_classic](https://tover.xyz/p/2022-MRCTF-strange-classic/)
 
 🎆 Mar 22, 2022: [2022HFCTF的RRSSAA笔记](https://tover.xyz/p/2022-HFCTF-RRSSAA/)
@@ -42,7 +44,5 @@
 
 🎆 Nov 24, 2021: [华南师范大学HSCTF2021部分Writeup（官方）](https://tover.xyz/p/hsctf-2021-fresh-wp/)
 
-🎆 Nov 08, 2021: [aircrack-ng+hashcat的wifi口令爆破](https://tover.xyz/p/aircrack-ng-wifi/)
-
-🎆 Nov 04, 2021: [EasyCrypt编译安装踩坑记录](https://tover.xyz/p/easy-crypt-install/)<!-- BLOG-POST-LIST:END -->
+🎆 Nov 08, 2021: [aircrack-ng+hashcat的wifi口令爆破](https://tover.xyz/p/aircrack-ng-wifi/)<!-- BLOG-POST-LIST:END -->
 </details>
