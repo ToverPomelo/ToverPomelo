@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 May 15, 2022: [2022 Sloth 选拔赛密码题部分wp（官方）](https://tover.xyz/p/hsctf-2022-trial-wp/)
+
 🎆 May 10, 2022: [承诺方案（Commitment）学习笔记 1](https://tover.xyz/p/commitment-note/)
 
 🎆 Apr 26, 2022: [2022 MRCTF的strange_classic](https://tover.xyz/p/2022-MRCTF-strange-classic/)
@@ -42,7 +44,5 @@
 
 🎆 Jan 24, 2022: [DeemoⅡ音频及MIDI提取](https://tover.xyz/p/Deemo2-Song-MIDI/)
 
-🎆 Nov 24, 2021: [华南师范大学HSCTF2021部分Writeup（官方）](https://tover.xyz/p/hsctf-2021-fresh-wp/)
-
-🎆 Nov 08, 2021: [aircrack-ng+hashcat的wifi口令爆破](https://tover.xyz/p/aircrack-ng-wifi/)<!-- BLOG-POST-LIST:END -->
+🎆 Nov 24, 2021: [华南师范大学HSCTF2021部分Writeup（官方）](https://tover.xyz/p/hsctf-2021-fresh-wp/)<!-- BLOG-POST-LIST:END -->
 </details>
