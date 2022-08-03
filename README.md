@@ -26,7 +26,9 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
-🎆 Jul 25, 2022: [2022-DASCTF-July-Crypto](https://tover.xyz/p/2022-DASCTF-July-Crypto/)
+🎆 Aug 01, 2022: [DLP、Knapsack、和2022春秋杯的notKnapsack](https://tover.xyz/p/DLP-Knapsack-notKnapsack/)
+
+🎆 Jul 25, 2022: [2022DASCTF七月赛 Crypto部分Writeup](https://tover.xyz/p/2022-DASCTF-July-Crypto/)
 
 🎆 Jul 11, 2022: [MG02学习笔记](https://tover.xyz/p/MG02-note-1/)
 
@@ -42,7 +44,5 @@
 
 🎆 Mar 13, 2022: [d3factor/Boneh-Durfee与Coppersmith学习笔记](https://tover.xyz/p/d3factor-coppersmith/)
 
-🎆 Mar 01, 2022: [2022 SUSCTF的两道半密码题WP](https://tover.xyz/p/2022-SUSCTF-Crypto/)
-
-🎆 Feb 10, 2022: [maiPad Plus的simai谱面制作](https://tover.xyz/p/maiPad-simai/)<!-- BLOG-POST-LIST:END -->
+🎆 Mar 01, 2022: [2022 SUSCTF的两道半密码题WP](https://tover.xyz/p/2022-SUSCTF-Crypto/)<!-- BLOG-POST-LIST:END -->
 </details>
