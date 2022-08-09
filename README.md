@@ -26,11 +26,11 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Aug 03, 2022: [HNP学习笔记](https://tover.xyz/p/HNP-note/)
+
 🎆 Aug 01, 2022: [DLP、Knapsack、和2022春秋杯的notKnapsack](https://tover.xyz/p/DLP-Knapsack-notKnapsack/)
 
 🎆 Jul 25, 2022: [2022DASCTF七月赛 Crypto部分Writeup](https://tover.xyz/p/2022-DASCTF-July-Crypto/)
-
-🎆 Jul 11, 2022: [MG02学习笔记](https://tover.xyz/p/MG02-note-1/)
 
 🎆 Jul 11, 2022: [手撕PEM密钥（RSA）](https://tover.xyz/p/pem-by-hand/)
 
