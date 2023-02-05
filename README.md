@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Feb 04, 2023: [2023西湖论剑部分密码题Writeup](https://tover.xyz/p/2023-xhlj-Crypto-part-Writeup/)
+
 🎆 Jan 13, 2023: [2023山石冬令营结营赛密码题WP](https://tover.xyz/p/HSNCTF-2023-Winter-Crypto/)
 
 🎆 Sep 04, 2022: [承诺方案（Commitment）学习笔记 1.2](https://tover.xyz/p/commitment-note-1-2/)
@@ -42,7 +44,5 @@
 
 🎆 May 10, 2022: [承诺方案（Commitment）学习笔记 1](https://tover.xyz/p/commitment-note/)
 
-🎆 Apr 26, 2022: [2022 MRCTF的strange_classic](https://tover.xyz/p/2022-MRCTF-strange-classic/)
-
-🎆 Mar 22, 2022: [2022HFCTF的RRSSAA笔记](https://tover.xyz/p/2022-HFCTF-RRSSAA/)<!-- BLOG-POST-LIST:END -->
+🎆 Apr 26, 2022: [2022 MRCTF的strange_classic](https://tover.xyz/p/2022-MRCTF-strange-classic/)<!-- BLOG-POST-LIST:END -->
 </details>
