@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Feb 07, 2023: [NTRU学习笔记](https://tover.xyz/p/NTRU/)
+
 🎆 Feb 05, 2023: [博客Butterfly主题的CDN更换记录](https://tover.xyz/p/butterfly-cdn-changed/)
 
 🎆 Feb 05, 2023: [Okamoto-Uchiyama加密方案学习笔记](https://tover.xyz/p/OU98/)
@@ -42,7 +44,5 @@
 
 🎆 Jul 25, 2022: [2022DASCTF七月赛 Crypto部分Writeup](https://tover.xyz/p/2022-DASCTF-July-Crypto/)
 
-🎆 Jul 11, 2022: [手撕PEM密钥（RSA）](https://tover.xyz/p/pem-by-hand/)
-
-🎆 May 15, 2022: [2022 Sloth 选拔赛密码题部分wp（官方）](https://tover.xyz/p/hsctf-2022-trial-wp/)<!-- BLOG-POST-LIST:END -->
+🎆 Jul 11, 2022: [手撕PEM密钥（RSA）](https://tover.xyz/p/pem-by-hand/)<!-- BLOG-POST-LIST:END -->
 </details>
