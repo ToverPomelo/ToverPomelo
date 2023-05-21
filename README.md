@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 May 09, 2023: [d3bdd-note](https://tover.xyz/p/d3bdd-note/)
+
 🎆 Apr 26, 2023: [第一届强网杯密码数学专项赛——赛题一解题笔记](https://tover.xyz/p/2023-qwb-Crypto/)
 
 🎆 Feb 07, 2023: [NTRU学习笔记](https://tover.xyz/p/NTRU/)
@@ -42,7 +44,5 @@
 
 🎆 Aug 03, 2022: [HNP学习笔记](https://tover.xyz/p/HNP-note/)
 
-🎆 Aug 01, 2022: [DLP、Knapsack、和2022春秋杯的notKnapsack](https://tover.xyz/p/DLP-Knapsack-notKnapsack/)
-
-🎆 Jul 25, 2022: [2022DASCTF七月赛 Crypto部分Writeup](https://tover.xyz/p/2022-DASCTF-July-Crypto/)<!-- BLOG-POST-LIST:END -->
+🎆 Aug 01, 2022: [DLP、Knapsack、和2022春秋杯的notKnapsack](https://tover.xyz/p/DLP-Knapsack-notKnapsack/)<!-- BLOG-POST-LIST:END -->
 </details>
