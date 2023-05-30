@@ -26,7 +26,7 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
-🎆 May 09, 2023: [d3bdd-note](https://tover.xyz/p/d3bdd-note/)
+🎆 May 09, 2023: [2023D^3CTF的d3bdd](https://tover.xyz/p/d3bdd-note/)
 
 🎆 Apr 26, 2023: [第一届强网杯密码数学专项赛——赛题一解题笔记](https://tover.xyz/p/2023-qwb-Crypto/)
 
