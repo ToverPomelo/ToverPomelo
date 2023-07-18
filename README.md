@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Jul 18, 2023: [域中求n次方根的学习笔记](https://tover.xyz/p/n-root-in-F/)
+
 🎆 May 09, 2023: [2023D^3CTF的d3bdd](https://tover.xyz/p/d3bdd-note/)
 
 🎆 Apr 26, 2023: [第一届强网杯密码数学专项赛——赛题一解题笔记](https://tover.xyz/p/2023-qwb-Crypto/)
@@ -42,7 +44,5 @@
 
 🎆 Sep 04, 2022: [承诺方案（Commitment）学习笔记 1.2](https://tover.xyz/p/commitment-note-1-2/)
 
-🎆 Aug 03, 2022: [HNP学习笔记](https://tover.xyz/p/HNP-note/)
-
-🎆 Aug 01, 2022: [DLP、Knapsack、和2022春秋杯的notKnapsack](https://tover.xyz/p/DLP-Knapsack-notKnapsack/)<!-- BLOG-POST-LIST:END -->
+🎆 Aug 03, 2022: [HNP学习笔记](https://tover.xyz/p/HNP-note/)<!-- BLOG-POST-LIST:END -->
 </details>
