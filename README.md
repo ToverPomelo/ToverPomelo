@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Jul 19, 2023: [SageMath 10.1 安装记录](https://tover.xyz/p/SageMath-10-1-Installation/)
+
 🎆 Jul 18, 2023: [域中求n次方根的学习笔记](https://tover.xyz/p/n-root-in-F/)
 
 🎆 May 09, 2023: [2023D^3CTF的d3bdd](https://tover.xyz/p/d3bdd-note/)
@@ -42,7 +44,5 @@
 
 🎆 Jan 13, 2023: [2023山石冬令营结营赛密码题WP](https://tover.xyz/p/HSNCTF-2023-Winter-Crypto/)
 
-🎆 Sep 04, 2022: [承诺方案（Commitment）学习笔记 1.2](https://tover.xyz/p/commitment-note-1-2/)
-
-🎆 Aug 03, 2022: [HNP学习笔记](https://tover.xyz/p/HNP-note/)<!-- BLOG-POST-LIST:END -->
+🎆 Sep 04, 2022: [承诺方案（Commitment）学习笔记 1.2](https://tover.xyz/p/commitment-note-1-2/)<!-- BLOG-POST-LIST:END -->
 </details>
