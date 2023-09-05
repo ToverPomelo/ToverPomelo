@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Sep 04, 2023: [2023羊城杯密码题WP](https://tover.xyz/p/2023-ycb-Crypto/)
+
 🎆 Jul 31, 2023: [AMM算法学习笔记](https://tover.xyz/p/AMM-note/)
 
 🎆 Jul 19, 2023: [SageMath 10.1 安装记录](https://tover.xyz/p/SageMath-10-1-Installation/)
@@ -42,7 +44,5 @@
 
 🎆 Feb 05, 2023: [Okamoto-Uchiyama加密方案学习笔记](https://tover.xyz/p/OU98/)
 
-🎆 Feb 04, 2023: [2023西湖论剑部分密码题Writeup](https://tover.xyz/p/2023-xhlj-Crypto-part-Writeup/)
-
-🎆 Jan 13, 2023: [2023山石冬令营结营赛密码题WP](https://tover.xyz/p/HSNCTF-2023-Winter-Crypto/)<!-- BLOG-POST-LIST:END -->
+🎆 Feb 04, 2023: [2023西湖论剑部分密码题Writeup](https://tover.xyz/p/2023-xhlj-Crypto-part-Writeup/)<!-- BLOG-POST-LIST:END -->
 </details>
