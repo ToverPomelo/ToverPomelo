@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Sep 18, 2023: [区块链学习笔记——Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)
+
 🎆 Sep 18, 2023: [2023蓝帽杯半决赛Crypto赛题WP](https://tover.xyz/p/2023-lmb-semi-Crypto/)
 
 🎆 Sep 07, 2023: [博客Hexo的toc链接问题修复记录](https://tover.xyz/p/hexo-toc-href/)
@@ -42,7 +44,5 @@
 
 🎆 Apr 26, 2023: [第一届强网杯密码数学专项赛——赛题一解题笔记](https://tover.xyz/p/2023-qwb-Crypto/)
 
-🎆 Feb 07, 2023: [NTRU学习笔记](https://tover.xyz/p/NTRU/)
-
-🎆 Feb 05, 2023: [博客Butterfly主题的CDN更换记录](https://tover.xyz/p/butterfly-cdn-changed/)<!-- BLOG-POST-LIST:END -->
+🎆 Feb 07, 2023: [NTRU学习笔记](https://tover.xyz/p/NTRU/)<!-- BLOG-POST-LIST:END -->
 </details>
