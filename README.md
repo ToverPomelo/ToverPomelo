@@ -26,7 +26,9 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
-🎆 Sep 18, 2023: [区块链学习笔记——Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)
+🎆 Sep 26, 2023: [置换群群元的开平方：以BRICKS+的sqrt为例](https://tover.xyz/p/PermutationGroup-BRICKS-sqrt/)
+
+🎆 Sep 18, 2023: [区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)
 
 🎆 Sep 18, 2023: [2023蓝帽杯半决赛Crypto赛题WP](https://tover.xyz/p/2023-lmb-semi-Crypto/)
 
@@ -42,7 +44,5 @@
 
 🎆 May 09, 2023: [2023D^3CTF的d3bdd](https://tover.xyz/p/d3bdd-note/)
 
-🎆 Apr 26, 2023: [第一届强网杯密码数学专项赛——赛题一解题笔记](https://tover.xyz/p/2023-qwb-Crypto/)
-
-🎆 Feb 07, 2023: [NTRU学习笔记](https://tover.xyz/p/NTRU/)<!-- BLOG-POST-LIST:END -->
+🎆 Apr 26, 2023: [第一届强网杯密码数学专项赛——赛题一解题笔记](https://tover.xyz/p/2023-qwb-Crypto/)<!-- BLOG-POST-LIST:END -->
 </details>
