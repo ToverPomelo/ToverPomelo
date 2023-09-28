@@ -26,7 +26,7 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
-🎆 Sep 26, 2023: [置换群群元的开平方：以BRICKS+的sqrt为例](https://tover.xyz/p/PermutationGroup-BRICKS-sqrt/)
+🎆 Sep 26, 2023: [置换群群元的开平方：以BRICS+的sqrt为例](https://tover.xyz/p/PermutationGroup-BRICS-sqrt/)
 
 🎆 Sep 18, 2023: [区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)
 
