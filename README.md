@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Oct 11, 2023: [格攻击之小未知数方程求解入门——原理与例子](https://tover.xyz/p/LLL-attack-equation/)
+
 🎆 Oct 10, 2023: [结式、伴随矩阵、特征多项式和2023江苏省数据安全竞赛的hardrsa](https://tover.xyz/p/resultant-companion-hardrsa/)
 
 🎆 Sep 26, 2023: [置换群群元的开平方：以BRICS+的sqrt为例](https://tover.xyz/p/PermutationGroup-BRICS-sqrt/)
@@ -42,7 +44,5 @@
 
 🎆 Jul 19, 2023: [SageMath 10.1 安装记录](https://tover.xyz/p/SageMath-10-1-Installation/)
 
-🎆 Jul 18, 2023: [域中求n次方根的学习笔记](https://tover.xyz/p/n-root-in-F/)
-
-🎆 May 09, 2023: [2023D^3CTF的d3bdd](https://tover.xyz/p/d3bdd-note/)<!-- BLOG-POST-LIST:END -->
+🎆 Jul 18, 2023: [域中求n次方根的学习笔记](https://tover.xyz/p/n-root-in-F/)<!-- BLOG-POST-LIST:END -->
 </details>
