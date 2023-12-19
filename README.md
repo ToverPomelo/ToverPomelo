@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Dec 18, 2023: [2023强网杯密码部分题解](https://tover.xyz/p/2023-qwb-Crypto-Part/)
+
 🎆 Dec 05, 2023: [在SageMath中安装G6K](https://tover.xyz/p/G6k-Sage-Install/)
 
 🎆 Nov 06, 2023: [2023鹏城杯密码全WP](https://tover.xyz/p/2023-pcb-Crypto/)
@@ -42,7 +44,5 @@
 
 🎆 Sep 18, 2023: [区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)
 
-🎆 Sep 18, 2023: [2023蓝帽杯半决赛Crypto赛题WP](https://tover.xyz/p/2023-lmb-semi-Crypto/)
-
-🎆 Sep 07, 2023: [博客Hexo的toc链接问题修复记录](https://tover.xyz/p/hexo-toc-href/)<!-- BLOG-POST-LIST:END -->
+🎆 Sep 18, 2023: [2023蓝帽杯半决赛Crypto赛题WP](https://tover.xyz/p/2023-lmb-semi-Crypto/)<!-- BLOG-POST-LIST:END -->
 </details>
