@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Jan 03, 2024: [Wiener没有说的攻击范围](https://tover.xyz/p/Wiener-general/)
+
 🎆 Dec 18, 2023: [2023强网杯密码部分题解](https://tover.xyz/p/2023-qwb-Crypto-Part/)
 
 🎆 Dec 05, 2023: [在SageMath中安装G6K](https://tover.xyz/p/G6k-Sage-Install/)
@@ -42,7 +44,5 @@
 
 🎆 Sep 26, 2023: [置换群群元的开平方：以BRICS+的sqrt为例](https://tover.xyz/p/PermutationGroup-BRICS-sqrt/)
 
-🎆 Sep 18, 2023: [区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)
-
-🎆 Sep 18, 2023: [2023蓝帽杯半决赛Crypto赛题WP](https://tover.xyz/p/2023-lmb-semi-Crypto/)<!-- BLOG-POST-LIST:END -->
+🎆 Sep 18, 2023: [区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)<!-- BLOG-POST-LIST:END -->
 </details>
