@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Feb 05, 2024: [2024 L3HCTF密码部分题解](https://tover.xyz/p/2024-L3HCTF-guess/)
+
 🎆 Jan 03, 2024: [Wiener没有说的攻击范围](https://tover.xyz/p/Wiener-general/)
 
 🎆 Dec 18, 2023: [2023强网杯密码部分题解](https://tover.xyz/p/2023-qwb-Crypto-Part/)
@@ -42,7 +44,5 @@
 
 🎆 Oct 10, 2023: [结式、伴随矩阵、特征多项式和2023江苏省数据安全竞赛的hardrsa](https://tover.xyz/p/resultant-companion-hardrsa/)
 
-🎆 Sep 26, 2023: [置换群群元的开平方：以BRICS+的sqrt为例](https://tover.xyz/p/PermutationGroup-BRICS-sqrt/)
-
-🎆 Sep 18, 2023: [区块链学习笔记：Ethernaut刷题记录](https://tover.xyz/p/Ethernaut-note/)<!-- BLOG-POST-LIST:END -->
+🎆 Sep 26, 2023: [置换群群元的开平方：以BRICS+的sqrt为例](https://tover.xyz/p/PermutationGroup-BRICS-sqrt/)<!-- BLOG-POST-LIST:END -->
 </details>
