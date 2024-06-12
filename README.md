@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Jun 11, 2024: [C语言多线程爆破与2023CryptoCTF的Blue Office](https://tover.xyz/p/Blue-Office/)
+
 🎆 Apr 16, 2024: [RSA中dp泄露的广义解法](https://tover.xyz/p/2024-HSCTF-babyDP/)
 
 🎆 Feb 05, 2024: [2024 L3HCTF密码部分题解](https://tover.xyz/p/2024-L3HCTF-guess/)
@@ -42,7 +44,5 @@
 
 🎆 Oct 19, 2023: [可证明安全学习笔记——Diffie-Hellman的被动攻击](https://tover.xyz/p/Provable-security-Diffie-Hellman/)
 
-🎆 Oct 11, 2023: [格攻击之小未知数方程求解入门——原理与例子](https://tover.xyz/p/LLL-attack-equation/)
-
-🎆 Oct 10, 2023: [结式、伴随矩阵、特征多项式和2023江苏省数据安全竞赛的hardrsa](https://tover.xyz/p/resultant-companion-hardrsa/)<!-- BLOG-POST-LIST:END -->
+🎆 Oct 11, 2023: [格攻击之小未知数方程求解入门——原理与例子](https://tover.xyz/p/LLL-attack-equation/)<!-- BLOG-POST-LIST:END -->
 </details>
