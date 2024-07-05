@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Jun 28, 2024: [Pairing与2024 XCTF Final的Cu2ve](https://tover.xyz/p/Cu2ve-Pairing/)
+
 🎆 Jun 20, 2024: [2024 CryptoCTF Writeup（绝赞更新中...）](https://tover.xyz/p/2024-CryptoCTF/)
 
 🎆 Jun 11, 2024: [C语言多线程爆破与2023CryptoCTF的Blue Office](https://tover.xyz/p/Blue-Office/)
@@ -42,7 +44,5 @@
 
 🎆 Nov 06, 2023: [2023鹏城杯密码全WP](https://tover.xyz/p/2023-pcb-Crypto/)
 
-🎆 Oct 23, 2023: [2023 N1CTF密码部分题解](https://tover.xyz/p/2023-N1CTF-Crypto-Part/)
-
-🎆 Oct 19, 2023: [可证明安全学习笔记——Diffie-Hellman的被动攻击](https://tover.xyz/p/Provable-security-Diffie-Hellman/)<!-- BLOG-POST-LIST:END -->
+🎆 Oct 23, 2023: [2023 N1CTF密码部分题解](https://tover.xyz/p/2023-N1CTF-Crypto-Part/)<!-- BLOG-POST-LIST:END -->
 </details>
