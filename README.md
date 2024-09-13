@@ -26,6 +26,10 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Sep 12, 2024: [2024长城杯的RandomRSA](https://tover.xyz/p/2024-ccb-RandomRSA/)
+
+🎆 Sep 12, 2024: [2024羊城杯的部分WP](https://tover.xyz/p/2024-ycb/)
+
 🎆 Jun 28, 2024: [Pairing与2024 XCTF Final的Cu2ve](https://tover.xyz/p/Cu2ve-Pairing/)
 
 🎆 Jun 20, 2024: [2024 CryptoCTF Writeup（绝赞更新中...）](https://tover.xyz/p/2024-CryptoCTF/)
@@ -40,9 +44,5 @@
 
 🎆 Dec 18, 2023: [2023强网杯密码部分题解](https://tover.xyz/p/2023-qwb-Crypto-Part/)
 
-🎆 Dec 05, 2023: [在SageMath中安装G6K](https://tover.xyz/p/G6k-Sage-Install/)
-
-🎆 Nov 06, 2023: [2023鹏城杯密码全WP](https://tover.xyz/p/2023-pcb-Crypto/)
-
-🎆 Oct 23, 2023: [2023 N1CTF密码部分题解](https://tover.xyz/p/2023-N1CTF-Crypto-Part/)<!-- BLOG-POST-LIST:END -->
+🎆 Dec 05, 2023: [在SageMath中安装G6K](https://tover.xyz/p/G6k-Sage-Install/)<!-- BLOG-POST-LIST:END -->
 </details>
