@@ -26,6 +26,10 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Nov 27, 2024: [2024网鼎杯半决赛的RSA加密分析](https://tover.xyz/p/2024-wdb-RSA/)
+
+🎆 Nov 03, 2024: [类Pollard p-1的分解算法](https://tover.xyz/p/pollard-etc/)
+
 🎆 Sep 12, 2024: [2024长城杯的RandomRSA](https://tover.xyz/p/2024-ccb-RandomRSA/)
 
 🎆 Sep 12, 2024: [2024羊城杯的部分WP](https://tover.xyz/p/2024-ycb/)
@@ -40,9 +44,5 @@
 
 🎆 Feb 05, 2024: [2024 L3HCTF密码部分题解](https://tover.xyz/p/2024-L3HCTF-guess/)
 
-🎆 Jan 03, 2024: [Wiener没有说的攻击范围](https://tover.xyz/p/Wiener-general/)
-
-🎆 Dec 18, 2023: [2023强网杯密码部分题解](https://tover.xyz/p/2023-qwb-Crypto-Part/)
-
-🎆 Dec 05, 2023: [在SageMath中安装G6K](https://tover.xyz/p/G6k-Sage-Install/)<!-- BLOG-POST-LIST:END -->
+🎆 Jan 03, 2024: [Wiener没有说的攻击范围](https://tover.xyz/p/Wiener-general/)<!-- BLOG-POST-LIST:END -->
 </details>
