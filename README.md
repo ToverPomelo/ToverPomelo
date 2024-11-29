@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Nov 28, 2024: [2024数信杯决赛的DDLLPP](https://tover.xyz/p/2024-sxb-DDLLPP/)
+
 🎆 Nov 27, 2024: [2024网鼎杯半决赛的RSA加密分析](https://tover.xyz/p/2024-wdb-RSA/)
 
 🎆 Nov 03, 2024: [类Pollard p-1的分解算法](https://tover.xyz/p/pollard-etc/)
@@ -42,7 +44,5 @@
 
 🎆 Apr 16, 2024: [RSA中dp泄露的广义解法](https://tover.xyz/p/2024-HSCTF-babyDP/)
 
-🎆 Feb 05, 2024: [2024 L3HCTF密码部分题解](https://tover.xyz/p/2024-L3HCTF-guess/)
-
-🎆 Jan 03, 2024: [Wiener没有说的攻击范围](https://tover.xyz/p/Wiener-general/)<!-- BLOG-POST-LIST:END -->
+🎆 Feb 05, 2024: [2024 L3HCTF密码部分题解](https://tover.xyz/p/2024-L3HCTF-guess/)<!-- BLOG-POST-LIST:END -->
 </details>
