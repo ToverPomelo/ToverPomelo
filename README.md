@@ -26,6 +26,10 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Dec 30, 2024: [2024楚慧被密码学题目WP](https://tover.xyz/p/2024-chb-Crypto/)
+
+🎆 Dec 19, 2024: [HSSP与正交格学习笔记](https://tover.xyz/p/HSSP-note/)
+
 🎆 Dec 01, 2024: [对称密码、线性代数和2024网鼎杯白虎的crypto01](https://tover.xyz/p/2024-wdb-crypto01/)
 
 🎆 Nov 28, 2024: [2024数信杯决赛的DDLLPP](https://tover.xyz/p/2024-sxb-DDLLPP/)
@@ -40,9 +44,5 @@
 
 🎆 Jun 28, 2024: [Pairing与2024 XCTF Final的Cu2ve](https://tover.xyz/p/Cu2ve-Pairing/)
 
-🎆 Jun 20, 2024: [2024 CryptoCTF Writeup（绝赞更新中...咕）](https://tover.xyz/p/2024-CryptoCTF/)
-
-🎆 Jun 11, 2024: [C语言多线程爆破与2023CryptoCTF的Blue Office](https://tover.xyz/p/Blue-Office/)
-
-🎆 Apr 16, 2024: [RSA中dp泄露的广义解法](https://tover.xyz/p/2024-HSCTF-babyDP/)<!-- BLOG-POST-LIST:END -->
+🎆 Jun 20, 2024: [2024 CryptoCTF Writeup（绝赞更新中...咕）](https://tover.xyz/p/2024-CryptoCTF/)<!-- BLOG-POST-LIST:END -->
 </details>
