@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Jan 22, 2025: [PWN学习笔记vol.0 —— 复健与HNCTF 2022 WEEK4的ez_uaf](https://tover.xyz/p/PWN-Note_0-Reborn-and-ez-uaf/)
+
 🎆 Dec 30, 2024: [2024楚慧被密码学题目WP](https://tover.xyz/p/2024-chb-Crypto/)
 
 🎆 Dec 19, 2024: [HSSP与正交格学习笔记](https://tover.xyz/p/HSSP-note/)
@@ -42,7 +44,5 @@
 
 🎆 Sep 12, 2024: [2024羊城杯的部分WP](https://tover.xyz/p/2024-ycb/)
 
-🎆 Jun 28, 2024: [Pairing与2024 XCTF Final的Cu2ve](https://tover.xyz/p/Cu2ve-Pairing/)
-
-🎆 Jun 20, 2024: [2024 CryptoCTF Writeup（绝赞更新中...咕）](https://tover.xyz/p/2024-CryptoCTF/)<!-- BLOG-POST-LIST:END -->
+🎆 Jun 28, 2024: [Pairing与2024 XCTF Final的Cu2ve](https://tover.xyz/p/Cu2ve-Pairing/)<!-- BLOG-POST-LIST:END -->
 </details>
