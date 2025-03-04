@@ -26,6 +26,8 @@
   <summary><img src="https://img.shields.io/badge/-📢 Click to view more!-blue?style=for-the-badge"></summary>
   <!-- BLOG-POST-LIST:START -->
 
+🎆 Feb 27, 2025: [PWN学习笔记vol.4 —— House of Some 2](https://tover.xyz/p/PWN-Note-4-House-of-Some-2/)
+
 🎆 Feb 20, 2025: [PWN学习笔记vol.3 —— Libc-2.34的Tcache机制和_IO_FILE](https://tover.xyz/p/PWN-Note-3-Tcache-in-Libc-2-34-and-IO-File/)
 
 🎆 Feb 17, 2025: [PWN学习笔记vol.2 —— Off by one、Unlink和巅峰极客 2022的smallcontainer](https://tover.xyz/p/PWN-Note-2-Off-by-One-and-Unlink/)
@@ -42,7 +44,5 @@
 
 🎆 Nov 28, 2024: [2024数信杯决赛的DDLLPP](https://tover.xyz/p/2024-sxb-DDLLPP/)
 
-🎆 Nov 27, 2024: [2024网鼎杯半决赛的RSA加密分析](https://tover.xyz/p/2024-wdb-RSA/)
-
-🎆 Nov 03, 2024: [类Pollard p-1的分解算法](https://tover.xyz/p/pollard-etc/)<!-- BLOG-POST-LIST:END -->
+🎆 Nov 27, 2024: [2024网鼎杯半决赛的RSA加密分析](https://tover.xyz/p/2024-wdb-RSA/)<!-- BLOG-POST-LIST:END -->
 </details>
